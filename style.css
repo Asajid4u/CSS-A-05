@@ -188,15 +188,18 @@ body {
     height: 100px;
     width: 100px;
     background-color:green;
-    border: none;
-    margin-top: 20px;
+    margin: 10px;
     
+    transition-duration: 3s;
+    margin-left: 570px;
     
 }
 
 #box51 {
-
-  transition-duration: 4s;
+  
+    transition-duration: 3s;
+    margin-top: 30px;
+    
   
     
   
@@ -206,6 +209,7 @@ body {
 #box51:hover {
     
     width: 250px;
+    background-color: ;
 
     
     
@@ -214,7 +218,8 @@ body {
 
 #box52 {
 
-    transition-duration: 4s;
+    background-color: blue;
+    transition-duration: 3s;
 
 }
 
@@ -229,14 +234,62 @@ body {
 
 #box53 {
 
-    transition-duration: 4s;
+    transition-duration: 3s;
 }
 
 #box53:hover {
     
     width: 400px;
-   
-  
+    
+}
+
+#box54 {
+
+    transition-duration: 3s;
+    
+    
+}
+
+#box54:hover {
+    
+    width: 400px;
+    
+
+    
+
+    
+}
+
+#box55 {
+
+    transition-duration: 3s;
+}
+
+#box55:hover {
+    
+    width: 400px;
+    
+}
+
+#box56 {
+
+    transition-duration: 3s;
+}
+
+#box56:hover {
+    
+    width: 400px;
+    
+}
+
+#box57 {
+
+    transition-duration: 3s;
+}
+
+#box57:hover {
+    
+    width: 400px;
     
 }
 
